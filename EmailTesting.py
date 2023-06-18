@@ -3,9 +3,9 @@ import ssl
 
 port = 465
 smtp_server = "smtp.gmail.com"
-sender_email = "bishoprossrossdevelopment@gmail.com"
-receiver_email = "bishopross@gmail.com"
-password = "Cyclops_64"
+sender_email = "Enter the sender's email here"
+receiver_email = "Enter your email here"
+password = "Enter your password here"
 context = ssl.create_default_context()
 
 
